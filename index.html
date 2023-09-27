@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Подключение CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <title>Список пользователей</title>
+
+</head>
+
+<body>
+    <h1 class="page-title">Список пользователей</h1>
+
+    <div class="container">
+        <!-- Контейнер для фильтрации по возрасту -->
+        <div class="filter">
+            <label for="minAge" class="filter__label">Минимальный возраст:</label>
+            <input type="number" id="minAge" class="filter__input">
+            <label for="maxAge" class="filter__label">Максимальный возраст:</label>
+            <input type="number" id="maxAge" class="filter__input">
+            <button onclick="filterUsers()" class="filter__button" >
+                <img src="img/filter-svgrepo-com (1).svg" alt="filter Icon" class="button-icon button-icon-filter"> Фильтровать
+            </button>
+            <button onclick="clearFilters()" class="filter__button">
+                <img src="img/trash-blank-alt-svgrepo-com.svg" alt="trash Icon" class="button-icon button-icon-trash">Очистить
+            </button>
+        </div>
+
+        <!-- Список пользователей -->
+        <ul id="userList" class="user-list"></ul>
+    </div>
+
+    <!-- Подключение JS -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>-

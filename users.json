@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Иван",
+      "surname": "Иванов",
+      "age": 30,
+      "email": "ivan@example.com"
+    },
+    {
+      "name": "Анна",
+      "surname": "Петрова",
+      "age": 25,
+      "email": "anna@example.com"
+    },
+    {
+      "name": "Павел",
+      "surname": "Сидоров",
+      "age": 35,
+      "email": "pavel@example.com"
+    },
+    {
+      "name": "Екатерина",
+      "surname": "Сидорова",
+      "age": 33,
+      "email": "ekatetina88@example.com"
+    },
+    {
+      "name": "Михаил",
+      "surname": "Ломоносов",
+      "age": 55,
+      "email": "lomonosov@example.com"
+    },
+    {
+      "name": "Игорь",
+      "surname": "Морозов",
+      "age": 18,
+      "email": "igor33@example.com"
+    },
+    {
+      "name": "София",
+      "surname": "Иванова",
+      "age": 16,
+      "email": "sofia@example.com"
+    },
+    {
+      "name": "Павел",
+      "surname": "Сидоров",
+      "age": 35,
+      "email": "pavel@example.com"
+    },
+    {
+      "name": "Екатерина",
+      "surname": "Сидорова",
+      "age": 33,
+      "email": "ekatetina88@example.com"
+    },
+    {
+      "name": "Михаил",
+      "surname": "Ломоносов",
+      "age": 55,
+      "email": "lomonosov@example.com"
+    },
+    {
+      "name": "Игорь",
+      "surname": "Морозов",
+      "age": 18,
+      "email": "igor33@example.com"
+    },
+    {
+      "name": "София",
+      "surname": "Иванова",
+      "age": 16,
+      "email": "sofia@example.com"
+    }
+
+  ]
